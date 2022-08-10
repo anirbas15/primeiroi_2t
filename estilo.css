@@ -1,7 +1,29 @@
-body{
-background: pink;
+body {
+  background: rgb(179, 210, 235)255, 235, 192);
 }
 h1 {
-text-align: center;
+  text-align: center;
 }
-github
+.caixa1 {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: green;
+  left: 0;
+  bottom:0;
+}
+.caixa2 {
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  left: 205px;
+  bottom:0;
+}
+.menuPrincipal {
+   position: absolute;
+   width: 100%;
+   height: 80px;
+   background:rgb(161, 246, 252);
+   font-family: 'Courier New', Courier, monospace;
+}
