@@ -49,3 +49,36 @@ li a:hover {
   background: rgb(139, 105, 201);
   color: azure;
 }
+#abelha {
+   width: 15%;
+}
+.caixaAbelha {
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background: rgb(168, 195, 226);
+  left: 0;
+  margin: 20px;
+  border-color: blue;
+  border-style: solid;
+  border-width: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.caixaAbelha2 {
+  position: absolute;
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background: rgb(39, 172, 143);
+  left: 0;
+  margin: 20px;
+  border-color: rgb(140, 140, 182);
+  border-style: solid;
+  border-width: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: end;
+}
